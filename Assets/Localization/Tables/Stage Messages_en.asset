@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Stage Messages_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5b934be3303e9f640acf388e96a85e6d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 62894051328
+    m_Localized: GIVE PAW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38997896663040
+    m_Localized: LEVEL COMPLETED!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773417888845824
+    m_Localized: SIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 793389713264640
+    m_Localized: HUG HER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062857869824000
+    m_Localized: EAT GRASS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084137016856576
+    m_Localized: COPY POSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1823780742041600
+    m_Localized: LIE DOWN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3230320380284928
+    m_Localized: CATCH THE BONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3324467346870272
+    m_Localized: CLIMB ON TREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3329816325984256
+    m_Localized: LIE ON BRANCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3635332537323520
+    m_Localized: LET THEM KISS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658074926026752
+    m_Localized: LIE DOWN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3659730589782016
+    m_Localized: COME CLOSER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3663025744056320
+    m_Localized: HUG HER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3977292741545984
+    m_Localized: JUMP THE OBSTACLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4032638948413440
+    m_Localized: STAND ON FEET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4049691281395712
+    m_Localized: FIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4364111664582656
+    m_Localized: CLIMB THE TREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4382308656680960
+    m_Localized: JUMP ON HAND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4382638463193088
+    m_Localized: LIE ON SHOULDERS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5053784695181312
+    m_Localized: PUT THE CAT ON THE BED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5415355678134272
+    m_Localized: 'RISE TO GET BANANA
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5451306903212032
+    m_Localized: GET READY FOR FIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5453704770031616
+    m_Localized: PUT THE PUPPIES ON THE SOFA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5652544746569728
+    m_Localized: CLIMB ON HIS HEAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5667902895308800
+    m_Localized: LIE ON YOUR HEAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5840908566597632
+    m_Localized: HUG YOUR MISTRESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6011326135681024
+    m_Localized: PET THE CAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6131055065501696
+    m_Localized: PUT THE CAT ON THE SOFA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6139367853068288
+    m_Localized: STAND ON HER HEAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6501664693882880
+    m_Localized: PLACE THE CATS IN THE BOX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6520604715323392
+    m_Localized: LET THE HORSE BOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1128644362240
+    m_Localized: WALK ON THE BAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147745856229376
+    m_Localized: PICK UP THE PUPPY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430972486172672
+    m_Localized: FEED THE ELEPHANT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433959010975744
+    m_Localized: PUT GLASSES ON THE ELEPHANT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433960516730880
+    m_Localized: SIT DOWN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433961175236608
+    m_Localized: PETT THE ELEPHANT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433961665970176
+    m_Localized: MAKE A BRIDGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433962244784128
+    m_Localized: GET READY FOR FIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433962777460736
+    m_Localized: HUG HER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435422189731840
+    m_Localized: RIDE ON YOUR BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435423619989504
+    m_Localized: COME TO ME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435424244940800
+    m_Localized: PICK UP THE CAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435424723091456
+    m_Localized: PET THE CAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438009781698560
+    m_Localized: PUT THE CAT ON HER SPY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438008087199744
+    m_Localized: HUG HIM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439048081653760
+    m_Localized: START RUBBING HER BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1244149079752704
+    m_Localized: MAKE HIM AGGRESSIVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1244332031098880
+    m_Localized: LIFT YOUR TAIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1271201380057088
+    m_Localized: CLIMB THE WALL
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

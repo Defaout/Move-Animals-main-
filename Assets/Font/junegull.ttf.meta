@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 5a72cf77157b5ee46aac5b58cdc09b6e
+timeCreated: 1699710827
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Junegull
+  - Junegullrg
+  - Sarabun
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 37cc408727a6c6a48ae7b087cef55a67, type: 3}
+  - {fileID: 12800000, guid: 41dac6383d5e7b049b64cea9837e1064, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:
